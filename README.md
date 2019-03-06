@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Drawitsch, et al., "FluoEM, virtual labeling of axons in three-dimensional electron microscopy data for long-range connectomics". eLife, 2018. http://dx.doi.org/10.7554/eLife.38976
+
 # About FluoEM
 
 FluoEM is a set of experimental and computational methods allowing to directly match fluorescently labelled axons to their 3D EM counterparts without label conversion.
